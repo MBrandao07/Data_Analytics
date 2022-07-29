@@ -13,3 +13,5 @@
 - No projeto de Classificação de Times RL foi realizado o tratamento dos dados e a previsão da classificação do time no campeonato com base no seu elenco atual utilizando a técnica de Regressão Logística. 
 
 - No relatório de Preço dos combustíveis foi realizada uma análise do preço de diferentes tipos de combustível em todo o país durante o segundo semestre de 2021, dos dados foram foram extraidos as menores e maiores médias de preço dentre os estados, qual item foi vendido mais caro e qual foi vendido mais barato durante todo o período e a variação que os preços sofreram do começo para o fim do semestre.
+
+- O relatório sobre a Varíola fala sobre a contaminação da doença no mundo a partir de janeiro de 2022 até o final de julho de 2022, mostra os países com mais indivíduos contaminados, onde se iniciou o registro de casos da doença, quando aconteceu o pico de contágio, entre outros.
